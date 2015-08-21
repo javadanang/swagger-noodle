@@ -3,6 +3,10 @@
   "version": "0.1.0",
   "description": "Swagger renderer middleware for nodejs",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pnhung177/swagger-noodle.git"
+  },
   "keywords": [
     "swagger"
   ],
